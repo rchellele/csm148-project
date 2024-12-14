@@ -1,4 +1,4 @@
-# csm148 final project
+# cs m148 final project
 MAIN DOCUMENT
 
 THE DATA SET
